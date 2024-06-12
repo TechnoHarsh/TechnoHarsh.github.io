@@ -22,7 +22,7 @@ Fueled by a relentless drive for innovation, I immerse myself in the dynamic wor
 - **Languages:** English, Hindi
 <hr>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="HV.jpeg"  />
 
 
 
