@@ -1,8 +1,12 @@
-  <h2 align="left">My name is Harsh Vardhan and I'm a Student of ASoSE Lajpat Nagar , From New Delhi</h2>
-  <h4 align="left">Hello! I'm Harsh Vardhan, a coding student at ASoSE Lajpat Nagar. As a tech visionary with a diverse skill set, I am passionate about exploring the intersections of cybersecurity, blockchain technology, artificial intelligence, machine learning, and full stack web development.
+<h1>Harsh Vardhan</h1> 
+<h4>Web Development, AI & ML Student</h4>
+<hr>
+<h2>About Me </h2>
 
-Fueled by a relentless drive for innovation, I immerse myself in the dynamic worlds of technology and cybersecurity. My journey in tech is marked by a relentless pursuit of knowledge and a commitment to crafting impactful digital solutions. With a focus on full stack web development, I leverage my skills to create user-friendly and visually stunning web applications that push the boundaries of what is possible.</h4>
+Hello! I'm Harsh Vardhan, a coding student at ASoSE Lajpat Nagar. As a tech visionary with a diverse skill set, I am passionate about exploring the intersections of cybersecurity, blockchain technology, artificial intelligence, machine learning, and full stack web development. 
 
+Fueled by a relentless drive for innovation, I immerse myself in the dynamic worlds of technology and cybersecurity. My journey in tech is marked by a relentless pursuit of knowledge and a commitment to crafting impactful digital solutions. With a focus on full stack web development, I leverage my skills to create user-friendly and visually stunning web applications that push the boundaries of what is possible.
+<hr>
 
 
 <div align="center">
@@ -10,7 +14,13 @@ Fueled by a relentless drive for innovation, I immerse myself in the dynamic wor
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+# Technical Skills 🛠️
 
+- **Programming:** Python, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, React.js
+- **Operating System:** Windows
+- **Languages:** English, Hindi
+<hr>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -43,6 +53,19 @@ Fueled by a relentless drive for innovation, I immerse myself in the dynamic wor
 
 <br clear="both">
 
+# Other Highlights 💡
+
+- **Tech Visionary:** Passionate about harnessing technology to drive innovation and solve complex problems.
+- **Cybersecurity Enthusiast:** Intrigued by the ever-evolving landscape of cybersecurity and committed to developing robust security solutions.
+- **Blockchain Advocate:** Fascinated by the transformative potential of blockchain technology across various industries.
+- **AI/ML Enthusiast:** Eager to explore the realms of artificial intelligence and machine learning to unlock new possibilities and drive innovation.
+- **Full Stack Web Developer:** Specializing in crafting dynamic and impactful web applications that deliver seamless user experiences.
+<hr>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+# Contact 📧
+
+- **Email:** harsh.vardhanln@rpvvlajpatnagar.co.in
+
 
 
