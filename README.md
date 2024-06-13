@@ -26,7 +26,7 @@ Fueled by a relentless drive for innovation, I immerse myself in the dynamic wor
 
 
 
-<div align="left">
+<div align="left" style = cursor:pointer>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -42,7 +42,7 @@ Fueled by a relentless drive for innovation, I immerse myself in the dynamic wor
 
 
 
-<div align="left">
+<div align="left" style = "cursor:pointer">
   <a href="https://www.youtube.com/channel/UCTRnNL-wrRG6i3a9YRWzb_g">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
 </a>
